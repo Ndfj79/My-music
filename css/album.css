@@ -1,0 +1,13 @@
+.albums a{
+    color: gray;
+}
+
+.albums .card:hover{
+    outline: 2px solid #ffdb4d;
+}
+
+.list-group-item:hover{
+    outline: 4px solid #ffdb4d;
+    cursor: pointer;
+    z-index: 1;
+}
