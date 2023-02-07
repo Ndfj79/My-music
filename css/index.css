@@ -6,3 +6,6 @@
     outline: 2px solid #ffdb4d;
 }
 
+.card{
+    flex-wrap: wrap;
+}
