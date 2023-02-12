@@ -8,37 +8,58 @@ let albums = [
             {
                 title: `ПОЛНЫЙ ПИЗДЕЦ`,
                 author: `Моцарт`,
-                time: `2:10`
+                time: `1:01`,
+                durationSeconds: 61, 
+                src: 'music/bad_pigges.mp3',
+                isPlaying: false
             },
             {
                 title: `Я СОСАЛ МЕНЯ ЕБАЛИ`,
                 author: `Моцарт`,
-                time: `3:10`
+                time: `4:08`,
+                durationSeconds: 248,
+                src: 'music/sharik.mp3',
+                isPlaying: false
             },
             {
                 title: `ШАМАРИНА НЕ НАДА`,
                 author: `Моцарт`,
-                time: `1:40`
+                time: `1:37`,
+                durationSeconds: 97,
+                src: 'music/Glist.mp3',
+                isPlaying: false
             },
             {
                 title: `ПОЧТИ НОКНУЛ`,
                 author: `Моцарт`,
-                time: `3:15`
+                time: `1:08`,
+                durationSeconds: 68,
+                src: 'music/mocart.mp3',
+                isPlaying: false
             },
             {
                 title: `УБЕЕЕЕЙТИ МИНЯЯ`,
                 author: `Моцарт`,
-                time: `3:04`
+                time: `1:39`,
+                durationSeconds: 99,
+                src: 'music/kaif.mp3',
+                isPlaying: false
             },
             {
                 title: `ЧБД`,
                 author: `Моцарт`,
-                time: `1:11`
+                time: `1:44`,
+                durationSeconds: 104,
+                src: 'music/perfect.mp3',
+                isPlaying: false
             },
             {
                 title: `ДРОЧКА(НА ДОЧКУ)`,
                 author: `Моцарт`,
-                time: `4:10`
+                time: `4:11`,
+                durationSeconds: 251,
+                src: 'music/domekano.mp3',
+                isPlaying: false
             },
         ]
     },
@@ -51,37 +72,58 @@ let albums = [
             {
                 title: `ДЕД ИНСАЙДА ТРАХНУЛ ЛОСЬ`,
                 author: `Лысый хуй`,
-                time: `2:15`
+                time: `2:00`,
+                durationSeconds: 120,
+                src: 'music/sraka.mp3',
+                isPlaying: false
             },
             {
                 title: `Я МАЖУ ЖОПУ ВАНИЛИНОМ`,
                 author: `Твоя мертвая мать`,
-                time: `1:59`
+                time: `3:33`,
+                durationSeconds: 213,
+                src: 'music/chugun.mp3',
+                isPlaying: false
             },
             {
                 title: `ПОМУРЧИ СУКА ПОМУРЧИ БЛЯЯЯТЬ`,
                 author: `ded-inside`,
-                time: `3:13`
+                time: `0:32`,
+                durationSeconds: 32,
+                src: 'music/stons.mp3',
+                isPlaying: false
             },
             {
                 title: `ПОЧТИ РАЗВЕЛ НА СЕКС`,
                 author: `Ззззалупа`,
-                time: `2:26`
+                time: `2:38`,
+                durationSeconds: 158,
+                src: 'music/tadz1.mp3',
+                isPlaying: false
             },
             {
                 title: `ЗА РОССИЮ`,
                 author: `Я`,
-                time: `3:00`
+                time: `0:29`,
+                durationSeconds: 29,
+                src: 'music/voron.mp3',
+                isPlaying: false
             },
             {
                 title: `ДОТАААААА`,
                 author: `лысый член`,
-                time: `1:20`
+                time: `2:21`,
+                durationSeconds: 141,
+                src: 'music/meta.mp3',
+                isPlaying: false
             },
             {
                 title: `МНЕ ШЛЮХА НЕ ДАЛА`,
                 author: `ТЫ`,
-                time: `4:12`
+                time: `3:12`,
+                durationSeconds: 192,
+                src: 'music/stas_bar.mp3',
+                isPlaying: false
             },
         ]
     },
@@ -94,37 +136,58 @@ let albums = [
             {
                 title: `ДОТА - МОЯ ЖИЗНЬ`,
                 author: `Шмонька`,
-                time: `1:54`
+                time: `2:38`,
+                durationSeconds: 158,
+                src: 'music/klisma.mp3',
+                isPlaying: false
             },
             {
                 title: `ЧЕПИК АХУЕТЬ АХАХАХА БЛЯТЬ`,
                 author: `Просто дима`,
-                time: `2:42`
+                time: `4:32`,
+                durationSeconds: 272,
+                src: 'music/tadz2.mp3',
+                isPlaying: false
             },
             {
                 title: `ЗВУКИ ЕБЛИ`,
                 author: `flaskifull`,
-                time: `1:40`
+                time: `2:49`,
+                durationSeconds: 169,
+                src: 'music/kotlets.mp3',
+                isPlaying: false
             },
             {
                 title: `АШКУДИШКА ВЗОРВАЛАСЬ В ПИЗДЕ`,
                 author: `Типичная 5 классница`,
-                time: `2:50`
+                time: `1:09`,
+                durationSeconds: 69,
+                src: 'music/crist.mp3',
+                isPlaying: false
             },
             {
                 title: `ОЙ БЛЯТЬ ПРОСТИ ПОЖАЛУЙСТА`,
                 author: `Ебучая медуза`,
-                time: `3:17`
+                time: `25:07`,
+                durationSeconds: 1507,
+                src: 'music/pavapeve.mp3',
+                isPlaying: false
             },
             {
                 title: `АОАООАОАОАОАОАООАА`,
                 author: `maksiminesis`,
-                time: `1:17`
+                time: `3:13`,
+                durationSeconds: 193,
+                src: 'music/kick.mp3',
+                isPlaying: false
             },
             {
                 title: `Я ЗАЕБАЛСЯ ПИСАТЬ ЭТУ ХУЙНЮ`,
                 author: `Головка от хуя`,
-                time: `2:10`
+                time: `4:01`,
+                durationSeconds: 261,
+                src: 'music/bistro.mp3',
+                isPlaying: false
             },
         ]
     },
@@ -137,37 +200,58 @@ let albums = [
             {
                 title: `2 УПРАЖНЕНИЯ ПО РУССКОМУ БЛЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯТЬ`,
                 author: `Твоя руссучка`,
-                time: `3:12`
+                time: `2:10`,
+                durationSeconds: 130,
+                src: 'music/hohlam.mp3',
+                isPlaying: false
             },
             {
                 title: `ДРОЧИТ ПРАВАЯ РУКА`,
                 author: `Шлюхан твоей папы`,
-                time: `1:43`
+                time: `3:17`,
+                durationSeconds: 177,
+                src: 'music/polmateri.mp3',
+                isPlaying: false
             },
             {
                 title: `ФИЗИКА ПЁРЫШКИН 7 КЛАСС - СЕКС ИЗДАНИЕ`,
                 author: `Пёрышкин`,
-                time: `1:40`
+                time: `3:35`,
+                durationSeconds: 215,
+                src: 'music/prokuror.mp3',
+                isPlaying: false
             },
             {
                 title: `ПЕРЕИГРАЛ И УНИЧТОЖЫЫЛ`,
                 author: `Панос`,
-                time: `2:21`
+                time: `0:44`,
+                durationSeconds: 44,
+                src: 'music/murs.mp3',
+                isPlaying: false
             },
             {
                 title: `ЗВЕРОПОДОБНЫЕ ЧУРКИ`,
                 author: `Леви акерман`,
-                time: `1:24`
+                time: `1:00`,
+                durationSeconds: 60,
+                src: 'music/serega_pirat.mp3',
+                isPlaying: false
             },
             {
                 title: `АНДЕРГРАУНД`,
                 author: `Суслан`,
-                time: `3:00`
+                time: `4:06`,
+                durationSeconds: 246,
+                src: 'music/nagila.mp3',
+                isPlaying: false
             },
             {
                 title: `ДРОЧУ НА МИЦУРИ`,
                 author: `Анимешники`,
-                time: `1:10`
+                time: `3:03`,
+                durationSeconds: 183,
+                src: 'music/L.mp3',
+                isPlaying: false
             },
         ]
     }
